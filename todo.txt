@@ -1,0 +1,24 @@
+Plugins:
+    fugitive
+    sherlock
+    fuzzyfinder-textmate https://github.com/viperinthought/fuzzyfinder_textmate
+    speeddating
+    flatfoot
+    SearchPosition
+    ultisnips/snipmate
+    matchit
+    NERDtree
+    surround
+    vim-wiki + vim-task
+    syntastic
+    syntaxmotion
+    textobj-syntax
+    textobj-user
+
+Commands:
+    ]p
+    i_ctrl-a
+    gi
+
+Study:
+    Zmievski's slides http://www.slideshare.net/andreizm/vim-for-php-programmers-pdf
