@@ -191,7 +191,7 @@ function! s:do_map(mode, options, remap_p, keys, rhs)  "{{{2
     if rhs != '' && rhs !=# ('<SNR>' . matchstr(s:SID, '\d\+') . '_'
     \                        . 'chord_key(' . string(key) . ')')
       echohl WarningMsg
-      echomsg 'Key' string(key) 'is already mapped in mode' string(a:mode)
+      "echomsg 'Key' string(key) 'is already mapped in mode' string(a:mode)
       echohl None
       let already_mapped_p = !0
     endif

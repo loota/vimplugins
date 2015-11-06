@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/heikki/project/newvim'
+let g:netrw_dirhist_2='/home/heikki/ohjelmat/sherlock'
+let g:netrw_dirhist_3='/home/heikki/ohjelmat/kile/kile/src'
+let g:netrw_dirhist_4='/var/www/Symfony/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Fixtures/Resources/views'
+let g:netrw_dirhist_5='/home/heikki/project/cobase/src/Cobase/AppBundle/DependencyInjection'
+let g:netrw_dirhist_6='/home/heikki/project/grunt-dev/libs/somelib'
